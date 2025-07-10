@@ -4,10 +4,11 @@ Scoop (https://scoop.sh) bucket for my apps
 
 ## How to use
 
-Install [scoop](https://scoop.sh) and add the bucket:
+Install [scoop](https://scoop.sh) and add this bucket and the version bucket:
 
 ```bash
 scoop bucket add der_floh https://github.com/der-floh/scoop-bucket
+scoop bucket add versions
 ```
 
 ## Available apps
